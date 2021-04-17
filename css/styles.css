@@ -1,0 +1,21 @@
+.head{
+	background-color: grey;
+	height: 10vh;
+	margin-top: 50px;
+}
+
+.cream{
+	background-color: 	#ffffcc;
+	border:solid black 0.1px;
+	text-align: center;
+	border-left: 0px;
+
+
+}
+
+.orange{
+	background-color: orange;
+	border:solid black 0.1px;
+	text-align: center;
+	border-right: 0px;
+}
